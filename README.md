@@ -1,2 +1,2 @@
 # DSA
-All the DSA questions I have solved so far
+Data Structure and Algorithm questions and code
