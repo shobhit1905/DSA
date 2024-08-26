@@ -42,7 +42,7 @@ class MyStack<T>{
 public class ImplementStackUsingQueue {
     public static void main(String[] args) {
         
-        MyStack<String> stack = new MyStack() ;
+        MyStack<String> stack = new MyStack<>() ;
 
         stack.push("Shobhit");
         stack.push("Rachit");
